@@ -166,7 +166,9 @@ Tem um projeto em mente? Agende uma **consultoria gratuita**.
 
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgOTAwIDEwMCI+CiAgPHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9IiMwZDBkMGQiLz4KICA8cGF0aCBkPSJNMCwwIEMxNTAsNDAgMzAwLC0yMCA0NTAsMjAgQzYwMCw2MCA3NTAsLTIwIDkwMCwyMCBMOTAwLDAgTDAsMCBaIiBmaWxsPSIjMTExMTExIi8+Cjwvc3ZnPg==" alt="footer" width="100%"/>
+<img src="footer.svg" alt="footer" width="100%"/>
+
+<br/>
 
 <sub>&copy; 2026 Datatech &middot; All rights reserved &middot; Developed by <strong>dataTech_lab</strong></sub>
 
