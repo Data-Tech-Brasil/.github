@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
+  <defs>
+    <path id="wave" d="M0,80 C150,120 300,40 450,80 C600,120 750,40 900,80 L900,180 L0,180 Z"/>
+  </defs>
+  <rect width="900" height="180" fill="#0d0d0d"/>
+  <path d="M0,100 C150,140 300,60 450,100 C600,140 750,60 900,100 L900,180 L0,180 Z" fill="#111111"/>
+  <text x="450" y="75" font-family="monospace,sans-serif" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="2">dataTech.</text>
+  <text x="450" y="110" font-family="monospace,sans-serif" font-size="14" fill="#00fffc" text-anchor="middle" letter-spacing="1">Elite Software Engineering &amp; Enterprise Infrastructure</text>
+</svg>
