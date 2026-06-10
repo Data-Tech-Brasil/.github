@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=180&section=header&text=dataTech.&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Elite%20Software%20Engineering%20%26%20Enterprise%20Infrastructure&descAlignY=62&descSize=16&descColor=00fffc" alt="dataTech banner"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iMTgwIiB2aWV3Qm94PSIwIDAgOTAwIDE4MCI+CiAgPGRlZnM+CiAgICA8cGF0aCBpZD0id2F2ZSIgZD0iTTAsODAgQzE1MCwxMjAgMzAwLDQwIDQ1MCw4MCBDNjAwLDEyMCA3NTAsNDAgOTAwLDgwIEw5MDAsMTgwIEwwLDE4MCBaIi8+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMGQwZDBkIi8+CiAgPHBhdGggZD0iTTAsMTAwIEMxNTAsMTQwIDMwMCw2MCA0NTAsMTAwIEM2MDAsMTQwIDc1MCw2MCA5MDAsMTAwIEw5MDAsMTgwIEwwLDE4MCBaIiBmaWxsPSIjMTExMTExIi8+CiAgPHRleHQgeD0iNDUwIiB5PSI3NSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSxzYW5zLXNlcmlmIiBmb250LXNpemU9IjUyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI2ZmZmZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPmRhdGFUZWNoLjwvdGV4dD4KICA8dGV4dCB4PSI0NTAiIHk9IjExMCIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSxzYW5zLXNlcmlmIiBmb250LXNpemU9IjE0IiBmaWxsPSIjMDBmZmZjIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMSI+RWxpdGUgU29mdHdhcmUgRW5naW5lZXJpbmcgJmFtcDsgRW50ZXJwcmlzZSBJbmZyYXN0cnVjdHVyZTwvdGV4dD4KPC9zdmc+" alt="dataTech banner" width="100%"/>
 
 <br/>
 
@@ -165,7 +165,7 @@ Tem um projeto em mente? Agende uma **consultoria gratuita**.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=100&section=footer" alt="footer"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgOTAwIDEwMCI+CiAgPHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9IiMwZDBkMGQiLz4KICA8cGF0aCBkPSJNMCwwIEMxNTAsNDAgMzAwLC0yMCA0NTAsMjAgQzYwMCw2MCA3NTAsLTIwIDkwMCwyMCBMOTAwLDAgTDAsMCBaIiBmaWxsPSIjMTExMTExIi8+Cjwvc3ZnPg==" alt="footer" width="100%"/>
 
 <sub>&copy; 2026 Datatech &middot; All rights reserved &middot; Developed by <strong>dataTech_lab</strong></sub>
 
