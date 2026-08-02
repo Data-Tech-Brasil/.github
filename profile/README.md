@@ -16,113 +16,53 @@
 
 ## &nbsp;Sobre a Datatech
 
-> *Nao vendemos apenas servicos. Arquitetamos solucoes tecnologicas alinhadas aos seus objetivos de negocio.*
+> *Não vendemos apenas serviços. Arquitetamos soluções tecnológicas alinhadas aos seus objetivos de negócio.*
 
-A **Datatech** e especializada em engenharia de software e infraestrutura tecnologica complexa. Unimos o rigor tecnico de uma consultoria de infraestrutura com a sofisticacao de uma engenharia de elite para entregar solucoes sob medida que transformam ativos de mercado.
+A **Datatech** é especializada em engenharia de software e infraestrutura tecnológica complexa. Unimos o rigor técnico de uma consultoria de infraestrutura com a sofisticação de uma engenharia de elite para entregar soluções sob medida que transformam ativos de mercado.
 
-Nao usamos templates. Cada projeto e arquitetado do zero, com foco em **performance extrema**, **seguranca de nivel bancario** e **escalabilidade real**.
+Não usamos templates. Cada projeto é arquitetado do zero, com foco em **performance extrema**, **segurança de nível bancário** e **escalabilidade real**.
+
+Nossa sede está instalada no **Parque Tecnológico de Botucatu**, um polo de referência em desenvolvimento de alta tecnologia, inovação e ciência no interior de São Paulo — o que nos mantém conectados a um ecossistema de ponta em engenharia e segurança digital.
 
 <br/>
 
-## &nbsp;Servicos
+## &nbsp;Serviços
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Plataformas Web & Presenca Online
-Sistemas web de alta performance e sites institucionais arquitetados para conversao e escala comercial.
+### Plataformas Web & Presença Online
+Sistemas web rápidos e sites institucionais planejados especificamente para atrair clientes e impulsionar vendas.
 
-![PHP](https://img.shields.io/badge/PHP-0d0d0d?style=flat-square&logo=php&logoColor=00fffc)
-![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=00fffc)
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=00fffc)
+`Vendas` · `Velocidade` · `Conversão`
 
 </td>
 <td width="50%" valign="top">
 
-### Aplicativos Mobile Nativos
-Desenvolvimento de apps robustos e performaticos para iOS e Android com tecnologias de ponta.
+### Aplicativos Mobile Customizados
+Aplicativos intuitivos e seguros que mantêm seus clientes engajados e geram novas oportunidades de negócio no celular.
 
-![Java](https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=00fffc)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d0d0d?style=flat-square&logo=kotlin&logoColor=00fffc)
-![Android](https://img.shields.io/badge/Android-0d0d0d?style=flat-square&logo=android&logoColor=00fffc)
+`Fidelização` · `Experiência` · `Recorrência`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Softwares Enterprise Customizados
-Engenharia de software complexa e consultoria estrategica para sistemas de missao critica.
+### Sistemas Corporativos Sob Medida
+Soluções de software completas para automatizar processos diários, reduzir custos e eliminar trabalho manual.
 
-![Java](https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=00fffc)
-![Spring](https://img.shields.io/badge/Spring_Boot-0d0d0d?style=flat-square&logo=springboot&logoColor=00fffc)
+`Eficiência` · `Automação` · `Redução de Custos`
 
 </td>
 <td width="50%" valign="top">
 
-### Cloud, DevOps & Infraestrutura
-Arquiteturas escalaveis em nuvem, automacao de deploy e gerenciamento de servidores corporativos.
+### Estabilidade & Segurança em Nuvem
+Servidores seguros e estáveis para garantir que seu site ou sistema suporte milhares de acessos simultâneos sem cair.
 
-![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=flat-square&logo=amazonaws&logoColor=00fffc)
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=00fffc)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0d0d0d?style=flat-square&logo=githubactions&logoColor=00fffc)
+`Zero Downtime` · `Segurança de Dados` · `Escalabilidade`
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-## &nbsp;Stack Tecnologico
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=00fffc)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d0d0d?style=for-the-badge&logo=kotlin&logoColor=00fffc)
-![PHP](https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&logo=php&logoColor=00fffc)
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=00fffc)
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=00fffc)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d0d0d?style=for-the-badge&logo=springboot&logoColor=00fffc)
-
-![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=00fffc)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-0d0d0d?style=for-the-badge&logo=googlecloud&logoColor=00fffc)
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=00fffc)
-![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00fffc)
-![Stripe](https://img.shields.io/badge/Stripe-0d0d0d?style=for-the-badge&logo=stripe&logoColor=00fffc)
-![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00fffc)
-
-</div>
-
-<br/>
-
-## &nbsp;Projetos de Destaque
-
-<table>
-<tr>
-<td align="center" width="33%">
-<br/>
-<h3>DominaFood</h3>
-<p>Plataforma web de alta escalabilidade para gestao de etiquetas de restaurantes, garantindo fluxo operacional continuo.</p>
-<img src="https://img.shields.io/badge/PHP-0d0d0d?style=flat-square&logo=php&logoColor=00fffc"/>
-<img src="https://img.shields.io/badge/Hostinger-0d0d0d?style=flat-square&logo=hostinger&logoColor=00fffc"/>
-<img src="https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=00fffc"/>
-</td>
-<td align="center" width="33%">
-<br/>
-<h3>HoraBus</h3>
-<p>Aplicativo para visualizacao de horarios e deteccao de atrasos em tempo real, elevando a experiencia em mobilidade urbana.</p>
-<img src="https://img.shields.io/badge/AWS-0d0d0d?style=flat-square&logo=amazonaws&logoColor=00fffc"/>
-<img src="https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=00fffc"/>
-<img src="https://img.shields.io/badge/Kotlin-0d0d0d?style=flat-square&logo=kotlin&logoColor=00fffc"/>
-</td>
-<td align="center" width="33%">
-<br/>
-<h3>AgroCusto</h3>
-<p>Plataforma de controle de custos e monitoramento de gado, otimizando a gestao financeira para produtores rurais.</p>
-<img src="https://img.shields.io/badge/SQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=00fffc"/>
-<img src="https://img.shields.io/badge/PHP-0d0d0d?style=flat-square&logo=php&logoColor=00fffc"/>
-<img src="https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=00fffc"/>
 </td>
 </tr>
 </table>
@@ -131,22 +71,46 @@ Arquiteturas escalaveis em nuvem, automacao de deploy e gerenciamento de servido
 
 ## &nbsp;Por que a Datatech?
 
-| | Diferencial | Descricao |
+| | Diferencial | Descrição |
 |---|---|---|
-| ⚡ | **Engenharia de Elite** | Codigo escrito para performance extrema e seguranca de nivel bancario |
-| 🎯 | **Foco em Conversao** | Solucoes que guiam o usuario estrategicamente ate o resultado esperado |
-| ☁️ | **Cloud Nativo** | Arquiteturas escalaveis que crescem com o negocio, sem downtime |
-| 🧠 | **Visao Consultiva** | Entendemos seu modelo de negocio antes de abrir o editor de codigo |
+| ⚡ | **Código Puro (Sem Modelos Prontos)** | Escrevemos cada linha do zero com as tecnologias mais estáveis do mercado — nada de templates ou page builders que deixam seu site lento e engessado |
+| 🎯 | **Foco em Resultados** | Páginas projetadas para carregar instantaneamente e guiar o visitante de forma intuitiva até a compra ou contato |
+| 🖥️ | **Servidores Estáveis** | Infraestrutura corporativa com monitoramento ativo contra quedas e atualizações automatizadas — seu negócio nunca fica offline |
+| 🔒 | **Segurança e LGPD** | Toda solução é criada com criptografia moderna e conformidade com as leis de proteção de dados para blindar a sua marca |
+| 🧠 | **Tecnologia para Lucro** | Antes de desenhar qualquer tela, estudamos suas metas financeiras para garantir retorno real ao negócio |
+| 💬 | **Conversa Direta e Simples** | Sem intermediários comerciais: você fala diretamente com os especialistas que estão programando sua solução |
 
 <br/>
 
 <div align="center">
 
 ```
-100% Codigo Sob Medida   ·   0.8s Media de LCP   ·   Vagas Limitadas por Semestre
+100% Código Sob Medida   ·   0.8s Tempo de Resposta   ·   Vagas Limitadas por Semestre
 ```
 
 </div>
+
+<br/>
+
+## &nbsp;Time
+
+A engenharia humana por trás da tecnologia: engenheiros, arquitetos e estrategistas obstinados por performance, todos formados em Análise e Desenvolvimento de Sistemas pela FATEC.
+
+| | Nome | Cargo | Foco |
+|---|---|---|---|
+| 📱 | **José Elias** | Co-fundador & Responsável por Aplicativos Móveis | Apps rápidos, intuitivos e visualmente atraentes · 2º lugar no Hackathon nacional do PagBank |
+| 💼 | **Caio Zuim** | Co-fundador & Diretor Geral de Negócios | Entendimento de negócio, organização de processos e sistemas de gestão empresarial |
+| 🛡️ | **Valdomiro Neto** | Co-fundador & Data Protection Officer | Segurança digital, estabilidade de servidores e prevenção de riscos |
+| 🧩 | **Lucas Caldardo** | Co-fundador & Responsável pela Engenharia de Sistemas | Arquitetura de sistemas, bancos de dados e automação inteligente de processos |
+
+<br/>
+
+## &nbsp;Onde Estamos
+
+**Parque Tecnológico de Botucatu** — polo de referência em desenvolvimento de alta tecnologia, inovação e ciência no interior de São Paulo.
+
+📍 Rod. Gastão Dal Farra, Km 7 + 184m — Jd. Aeroporto, Botucatu - SP — CEP: 18605-525
+🏢 CNPJ: 22.600.587/0001-02
 
 <br/>
 
